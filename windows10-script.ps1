@@ -1,3 +1,4 @@
+#Script for Win10
 #Config Variables
 #Credentials
 $User = "mailer.test@interia.pl"
